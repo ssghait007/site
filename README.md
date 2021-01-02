@@ -1,5 +1,6 @@
 # site
-
+## status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d48b9346-cddc-4d28-872e-43010aeb334d/deploy-status)](https://app.netlify.com/sites/fervent-bardeen-ab4a96/deploys)
 ## Build Setup
 
 ```bash
