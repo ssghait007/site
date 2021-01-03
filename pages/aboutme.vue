@@ -4,7 +4,7 @@
       <div class="text-center">ABOUT PAGE</div>
       <div class="text-center pa-10">
         <v-btn elevation="2" large outlined x-large to="/projects">
-          Explore more
+          Projects
         </v-btn>
       </div>
     </v-col>

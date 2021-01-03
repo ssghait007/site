@@ -27,7 +27,7 @@
       </div>
       <div class="text-center pa-10">
         <v-btn elevation="2" large outlined x-large to="/aboutme">
-          Explore more
+          About me
         </v-btn>
       </div>
     </v-col>

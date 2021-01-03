@@ -4,7 +4,7 @@
       <div class="text-center">WorK Experience</div>
       <div class="text-center pa-10">
         <v-btn elevation="2" large outlined x-large to="/contact">
-          Explore more
+          Contact me
         </v-btn>
       </div>
     </v-col>
